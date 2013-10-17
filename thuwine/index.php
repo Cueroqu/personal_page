@@ -4,6 +4,7 @@
     $content = new Templater('about.php');
     $page = new Templater('templates/main.tpl.php');
     $page->title = "Home Page";
+    $page->content = $content->parse();
     $page->publish();
 ?>
 

@@ -6,6 +6,10 @@
 <p class="pname">Alan Zhang</p>
 <p class="ptitle">Vice President</p>
 <br/>
+<p class="pname">Felix Hirsch</p>
+<p class="ptitle">Public Relations</p>
+<p class="ptitle">Oxford Wine Circle</p>
+<br/>
 <p class="pname">Cuero Qu</p>
 <p class="ptitle">Public Affairs</p>
 <br/>
