@@ -6,6 +6,7 @@
     $page->title = "Home Page";
     $page->set("content", $content->parse());
     $page->set("active_page", "about");
+    $page->set("sub_active", "General.php");
     $about = 'about';
     $pattern = '/(\w+)?.php/';
     $format = '<li name=\"%s\"><a onclick=\"sublink(&quot;%s&quot;, &quot;%s&quot;)\">%s</a></li>';
