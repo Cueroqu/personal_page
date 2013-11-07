@@ -16,6 +16,8 @@ $(document).ready(function() {
         $("ul [name='<?php print @$this->active_page; ?>']").addClass('active');
     if ("<?php print @$this->sublinks; ?>".length > 0)
         $("#mainMenu ul").append('<?php print @$this->sublinks; ?>');
+    if ("<?php print @$this->sub_active; ?>".length > 0)
+        $("ul [name='<?php print @$this->sub_active; ?>']").addClass('active');
 });
 </script>
 </head>

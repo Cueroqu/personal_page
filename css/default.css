@@ -6,9 +6,9 @@
 /* -- Basics -- */
 html, body, div, p, li, ul, ol, menu, form, fieldset, h1, h2, h3, h4, h5, h6   { margin: 0; padding: 0; list-style: none; }
 
-html          { background: #251912 url('.images/bg-main.jpg') 50% 0 no-repeat; }
-body		      { font: normal 62.8%/1.3 Arial, Helvetica, sans-serif; background: #251912 url('.images/bg-body.gif'); color: #c3a184; padding: 100px 0; }
-*>body        { background: url('.images/bg-body.png'); }
+html          { background: #251912 url('../images/bg-main.jpg') 50% 0 no-repeat; }
+body		      { font: normal 62.8%/1.3 Arial, Helvetica, sans-serif; background: #251912 url('../images/bg-body.gif'); color: #c3a184; padding: 100px 0; }
+*>body        { background: url('../images/bg-body.png'); }
 a			        { color: #a1555a; }
 a:hover	      { text-decoration: underline !important; color: #c3a184;}
 a img   	    { border:0; }
@@ -45,9 +45,9 @@ fieldset    { border: 0 !important; }
 
 /* -- Icons list -- */
 .ico              { padding-left: 15px; }
-.ico-breezy       { background: url('.images/ico/ico-breezy.gif') 2px 0 no-repeat; padding: 2px 0 2px 25px; }
-.ico-breezy:hover { background: url('.images/ico/ico-breezy-hover.gif') 2px 0 no-repeat; }
-.ico-date         { background: url('.images/ico/ico-date.gif') 0 50% no-repeat; }
+.ico-breezy       { background: url('../images/ico/ico-breezy.gif') 2px 0 no-repeat; padding: 2px 0 2px 25px; }
+.ico-breezy:hover { background: url('../images/ico/ico-breezy-hover.gif') 2px 0 no-repeat; }
+.ico-date         { background: url('../images/ico/ico-date.gif') 0 50% no-repeat; }
 
 /* -- User friendly features -- */
 .hidden   { display: none; }
@@ -80,10 +80,10 @@ fieldset    { border: 0 !important; }
 .col2     { width: 49%; float: right; }
 
 /* -- Layout constructs -- */
-#view       { width: 898px; margin: 0 auto; padding: 0 20px 20px; background: url('.images/bg-view.png'); border: 1px #685952 solid; border-width: 1px 0; }
-#logo       { position: relative; height: 164px; overflow: hidden; background: #46691d url('.images/bg-logo.jpg') no-repeat; text-align: center; clear: both; }
+#view       { width: 898px; margin: 0 auto; padding: 0 20px 20px; background: url('../images/bg-view.png'); border: 1px #685952 solid; border-width: 1px 0; }
+#logo       { position: relative; height: 164px; overflow: hidden; background: #46691d url('../images/bg-logo.jpg') no-repeat; text-align: center; clear: both; }
 #content    { padding: 35px 10px; }
-#foot       { clear: both; height: 53px; background: url('.images/bg-foot.png'); /*background-color: #19110c;*/ }
+#foot       { clear: both; height: 53px; background: url('../images/bg-foot.png'); /*background-color: #19110c;*/ }
 
 /* -- Main Menu -- */
 #mainMenu li                { position: relative; float: left; margin: 0 10px; top: -1px; }
@@ -126,12 +126,12 @@ fieldset    { border: 0 !important; }
 #contentBlock table .last td,
 #contentBlock table .last th    { border: none; }
 #contentBlock table .even td,
-#contentBlock table .even th    { background: url('.images/bg-foot.png'); }
+#contentBlock table .even th    { background: url('../images/bg-foot.png'); }
 
 /* -- Lists -- */
 #contentBlock ul,
 #contentBlock ol                { padding-left: 20px; margin-top: 3em !important; }
-#contentBlock ul li             { padding-left: 20px; margin: 10px 0; background: 0 .3em url('.images/bg-list.gif') no-repeat; }
+#contentBlock ul li             { padding-left: 20px; margin: 10px 0; background: 0 .3em url('../images/bg-list.gif') no-repeat; }
 #contentBlock ol li,
 #menuBlock .boxText ol li       { margin: 3px 0 3px 10px; padding: 0; list-style: decimal; }
 #menuBlock .boxText ul
@@ -152,7 +152,7 @@ fieldset    { border: 0 !important; }
 	opacity: 0.5;	
 }
 .imageOut2 {
-	background: url('.images/frame.gif') no-repeat 0 0;	
+	background: url('../images/frame.gif') no-repeat 0 0;	
 	filter: alpha(opacity=50);
 	-moz-opacity: 0.5;
 	-khtml-opacity: 0.5;
