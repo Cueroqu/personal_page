@@ -11,10 +11,22 @@
 <p class="ptitle">Oxford Wine Circle</p>
 <br/>
 <p class="pname">Cuero Qu</p>
-<p class="ptitle">Public Affairs</p>
+<p class="ptitle">Publicity</p>
+<br/>
+<p class="pname">Hengshang Wang</p>
+<p class="ptitle">Publicity Assistant</p>
+<br/>
+<p class="pname">Zhikun Yang</p>
+<p class="ptitle">Publicity Assistant</p>
 <br/>
 <p class="pname">Linhui Guo</p>
 <p class="ptitle">Operation</p>
+<br/>
+<p class="pname">Jiyang Chen</p>
+<p class="ptitle">Operation Assistant</p>
+<br/>
+<p class="pname">Wenqian Xiao</p>
+<p class="ptitle">Operation Assistant</p>
 <br/>
 <p class="pname">Tango Wang</p>
 <p class="ptitle">Treasurer</p>
