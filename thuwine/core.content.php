@@ -7,8 +7,7 @@
 <p class="ptitle">Vice President</p>
 <br/>
 <p class="pname">Felix Hirsch</p>
-<p class="ptitle">Public Relations</p>
-<p class="ptitle">Oxford Wine Circle</p>
+<p class="ptitle">International Affairs</p>
 <br/>
 <p class="pname">Cuero Qu</p>
 <p class="ptitle">Publicity</p>
@@ -20,13 +19,13 @@
 <p class="ptitle">Publicity Assistant</p>
 <br/>
 <p class="pname">Linhui Guo</p>
-<p class="ptitle">Operation</p>
+<p class="ptitle">Operations</p>
 <br/>
 <p class="pname">Jiyang Chen</p>
 <p class="ptitle">Operation Assistant</p>
 <br/>
 <p class="pname">Wenqian Xiao</p>
-<p class="ptitle">Operation Assistant</p>
+<p class="ptitle">Communications</p>
 <br/>
 <p class="pname">Tango Wang</p>
 <p class="ptitle">Treasurer</p>
