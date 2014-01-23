@@ -21,7 +21,7 @@ textarea	    { background: #8f8c8c; padding: 2px 0; margin: 0; border: 1px solid
 button	      { vertical-align: middle; margin: 0; padding: 0; height: 18px; border: none; text-decoration: underline; font-weight: bold; color: #00CCFF; cursor: pointer; }
 .submit       { width: auto !important; overflow: visible; background-color: #312b2a; border: 1px solid #000 !important; padding: 0 5px; color: #fff; font-weight: bold; }
 
-h1	{ font-size: 2em; }
+h1	{ font-size: 2em; font-family: Georgia; }
 h2	{ font-size: 1.6em; }
 h3	{ font-size: 1.4em; }
 h4	{ font-size: 1.2em; }
@@ -81,7 +81,7 @@ fieldset    { border: 0 !important; }
 
 /* -- Layout constructs -- */
 #view       { width: 898px; margin: 0 auto; padding: 0 20px 20px; background: url('../images/bg-view.png'); border: 1px #685952 solid; border-width: 1px 0; }
-#logo       { position: relative; height: 164px; overflow: hidden; background: #46691d url('../images/bg-logo.jpg') no-repeat; text-align: center; clear: both; }
+#logo       { position: relative; height: 164px; overflow: hidden; background: transparent no-repeat; text-align: center; clear: both; }
 #content    { padding: 35px 10px; }
 #foot       { clear: both; height: 53px; background: url('../images/bg-foot.png'); /*background-color: #19110c;*/ }
 
@@ -167,10 +167,17 @@ fieldset    { border: 0 !important; }
     margin-top: 20px;
 }
 
+.pcname {
+    text-align: center;
+    font-family: Georgia;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
 .ptitle {
     font-family: Georgia;
     text-align: center;
-    font-size: 10px;
+    font-size: 11px;
 }
 
 .pdate {
@@ -185,4 +192,8 @@ fieldset    { border: 0 !important; }
     font-family: Georgia;
     font-size: 12px;
     font-weight: bold;
+}
+
+.isa {
+	text-decoration: none;
 }
