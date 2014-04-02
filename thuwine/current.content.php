@@ -1,7 +1,6 @@
 <div class="item">
 <br/>
-<h1 style="text-align:center; font-size:22px;">Programme 2013-2014</h1>
-<p class="pdate">FALL SEMESTER</p>
+<h1 style="text-align:center; font-size:22px;">Programme 2013 Fall</h1>
 <!--p class="pdate">Wednesday 9 October</p>
 <p class="pevent">Loic Hemard, Inter Rhône</p-->
 <p class="pdate">Saturday 26 October</p>
@@ -18,12 +17,4 @@
 <p class="pevent">Château Lynch-Bages</p>
 <p class="pdate">Wednesday 27 November</p>
 <p class="pevent">Champagne Lanson</p>
-<p class="pdate">March 2014</p>
-<p class="pevent">Château Cos d'Estournel</p>
-<p class="pdate">TBC</p>
-<p class="pevent">Tenuta di Trinoro</p>
-<p class="pevent">Clarendon Hills</p>
-<p class="pevent">Felton Road</p>
-<p class="pevent">Greenock Creek</p>
-<p class="pevent">Bouchard Père &amp; Fils</p>
 </div>
