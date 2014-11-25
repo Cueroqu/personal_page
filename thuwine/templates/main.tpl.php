@@ -6,6 +6,7 @@
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="css/default.css" media="screen" />
 <link rel="stylesheet" type="text/css" href="css/print.css" media="print" />
+<link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.js"></script>
 <script type="text/javascript" src="js/imagelink.js"></script>
