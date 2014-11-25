@@ -3,14 +3,11 @@
 <p class="pname">Isabelle Tao·陶媛慧</p>
 <p class="ptitle">President</p>
 <br/>
-<p class="pname">Alan Zhang·张明君</p>
+<p class="pname">Cuero Qu·渠准</p>
 <p class="ptitle">Vice President</p>
 <br/>
 <p class="pname">Felix Hirsch·费礼谦</p>
 <p class="ptitle">International Affairs</p>
-<br/>
-<p class="pname">Cuero Qu·渠准</p>
-<p class="ptitle">Public Relations</p>
 <br/>
 <p class="pname">Hengshang Wang·王恒尚</p>
 <p class="ptitle">Public Relations Assistant</p>
